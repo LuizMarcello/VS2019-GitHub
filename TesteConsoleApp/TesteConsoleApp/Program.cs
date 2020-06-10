@@ -10,7 +10,7 @@ namespace TesteConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo de utilização do gitHub");
+            Console.WriteLine("Exemplo de utilização do gitHub com o visual studio 2019");
             Console.ReadKey();
         }
     }
